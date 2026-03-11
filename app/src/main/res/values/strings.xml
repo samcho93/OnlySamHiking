@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OnlySam 등산</string>
+
+    <!-- 메인 화면 -->
+    <string name="btn_start">시작</string>
+    <string name="btn_stop">종료</string>
+    <string name="btn_pause">일시정지</string>
+    <string name="btn_resume">재개</string>
+    <string name="btn_photo">사진</string>
+    <string name="btn_history">나의 산행</string>
+    <string name="btn_switch_map">지도 전환</string>
+    <string name="btn_compass">나침반 방향</string>
+    <string name="btn_mountain_map">산 지도</string>
+    <string name="btn_fullscreen_map">전체화면 지도</string>
+    <string name="btn_add_watermark">워터마크 추가</string>
+    <string name="btn_save_memo">메모 저장</string>
+
+    <!-- 기록 정보 -->
+    <string name="label_distance">거리</string>
+    <string name="label_time">시간</string>
+    <string name="label_altitude">고도</string>
+    <string name="label_max_altitude">최고 고도</string>
+    <string name="label_speed">속도</string>
+    <string name="label_calories">칼로리</string>
+    <string name="label_avg_speed">평균 속도</string>
+    <string name="label_elevation_gain">누적 상승</string>
+    <string name="label_elevation_loss">누적 하강</string>
+    <string name="label_memo">메모</string>
+    <string name="label_photos">사진</string>
+    <string name="hint_memo">산행에 대한 메모를 남겨보세요</string>
+
+    <!-- 포맷 -->
+    <string name="format_distance_km">%.2f km</string>
+    <string name="format_distance_m">%d m</string>
+    <string name="format_altitude_m">%d m</string>
+    <string name="format_speed_kmh">%.1f km/h</string>
+    <string name="format_calories_kcal">%d kcal</string>
+    <string name="format_time">%02d:%02d:%02d</string>
+
+    <!-- 지도 -->
+    <string name="map_naver">네이버 지도</string>
+    <string name="map_google">구글 지도</string>
+    <string name="heading_mode_on">진행방향 모드</string>
+    <string name="heading_mode_off">고정 방향 모드</string>
+
+    <!-- 알림 -->
+    <string name="notification_channel_tracking">등산 추적</string>
+    <string name="notification_channel_description">등산 경로를 추적하는 동안 표시됩니다</string>
+    <string name="notification_title">등산 기록 중</string>
+    <string name="notification_recording">거리: %s | 시간: %s</string>
+
+    <!-- 산행 기록 -->
+    <string name="history_title">나의 산행 기록</string>
+    <string name="history_empty">아직 산행 기록이 없습니다.\n첫 번째 등산을 시작해보세요!</string>
+    <string name="detail_title">산행 상세</string>
+
+    <!-- 통계 헤더 -->
+    <string name="stat_total_records">총 기록</string>
+    <string name="stat_total_distance">누적 거리</string>
+    <string name="stat_monthly_distance">이번 달</string>
+    <string name="stat_max_distance">최대 거리</string>
+    <string name="stat_mountains">산 방문</string>
+
+    <!-- 다이얼로그 -->
+    <string name="dialog_stop_title">산행 종료</string>
+    <string name="dialog_stop_message">산행 기록을 종료하시겠습니까?\n기록이 자동으로 저장됩니다.</string>
+    <string name="dialog_confirm">확인</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_save">저장</string>
+    <string name="dialog_discard">삭제 (저장하지 않음)</string>
+    <string name="dialog_delete_title">기록 삭제</string>
+    <string name="dialog_delete_message">이 산행 기록을 삭제하시겠습니까?</string>
+    <string name="dialog_delete">삭제</string>
+    <string name="record_saved">산행 기록이 저장되었습니다</string>
+    <string name="record_discarded">산행 기록이 삭제되었습니다</string>
+
+    <!-- 탭 -->
+    <string name="tab_app_records">앱 기록</string>
+    <string name="tab_user_records">사용자 등록</string>
+
+    <!-- GPX -->
+    <string name="gpx_export">GPX 내보내기</string>
+    <string name="gpx_export_success">GPX 파일이 저장되었습니다</string>
+    <string name="gpx_export_fail">GPX 파일 저장 실패</string>
+    <string name="gpx_export_save">파일로 저장</string>
+    <string name="gpx_export_share">외부 앱으로 연결</string>
+    <string name="gpx_export_choose_app">연결할 앱 선택</string>
+    <string name="gpx_export_no_app">연결 가능한 앱이 없습니다</string>
+
+    <!-- GPX 가져오기 -->
+    <string name="import_gpx_title">운동 기록 등록</string>
+    <string name="import_gpx_file">GPX 파일</string>
+    <string name="import_select_file">GPX 파일 선택</string>
+    <string name="import_info">운동 정보</string>
+    <string name="import_name_hint">산행 이름</string>
+    <string name="import_photos">사진</string>
+    <string name="import_add_photos">사진 추가</string>
+    <string name="import_save">저장</string>
+    <string name="import_save_success">운동 기록이 저장되었습니다</string>
+    <string name="import_save_fail">저장 실패</string>
+    <string name="import_parse_fail">GPX 파일 파싱 실패</string>
+    <string name="import_empty_user">GPX 파일을 가져와서\n운동 기록을 등록해보세요!</string>
+
+    <!-- 사진 -->
+    <string name="photo_saved">사진이 저장되었습니다</string>
+    <string name="photo_save_fail">사진 저장 실패</string>
+    <string name="watermark_save">워터마크 저장</string>
+    <string name="watermark_save_success">워터마크 사진이 저장되었습니다</string>
+
+    <!-- TTS -->
+    <string name="tts_peak_nearby">근처에 산 봉우리가 있습니다. %s, 해발 %d미터</string>
+
+    <!-- 권한 -->
+    <string name="permission_location_title">위치 권한이 필요합니다</string>
+    <string name="permission_location_message">등산 경로를 기록하려면 위치 권한이 필요합니다</string>
+    <string name="permission_camera_message">사진을 찍으려면 카메라 권한이 필요합니다</string>
+    <string name="permission_grant">권한 허용</string>
+
+    <!-- 기타 -->
+    <string name="loading">로딩 중…</string>
+    <string name="no_gps">GPS 신호를 찾는 중…</string>
+    <string name="gps_accuracy">GPS 정확도: %dm</string>
+</resources>

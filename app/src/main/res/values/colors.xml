@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#66BB6A</color>
+    <color name="accent">#FF6F00</color>
+    <color name="accent_light">#FFB300</color>
+
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <color name="recording_red">#D32F2F</color>
+    <color name="recording_red_dark">#B71C1C</color>
+    <color name="route_color">#1565C0</color>
+    <color name="route_color_alpha">#801565C0</color>
+    <color name="altitude_fill">#4066BB6A</color>
+
+    <color name="divider">#E0E0E0</color>
+    <color name="overlay">#80000000</color>
+
+    <color name="status_recording">#D32F2F</color>
+    <color name="status_paused">#F57C00</color>
+    <color name="status_stopped">#2E7D32</color>
+</resources>

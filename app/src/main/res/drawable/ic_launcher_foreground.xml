@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Back mountain range - soft green, smooth curves -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M8,84 C18,84 26,58 36,52 C42,48 48,56 56,50 C66,42 76,56 100,84 Z" />
+
+    <!-- Main mountain - white, smooth elegant peak -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,84 C28,80 38,54 46,38 C50,30 52,27 54,24 C56,27 58,30 62,38 C70,54 80,80 88,84 Z" />
+
+    <!-- Mountain right-side shadow for depth -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M54,24 C58,32 64,48 72,64 C78,76 84,82 88,84 L68,84 C64,76 60,62 56,48 C55,42 54,32 54,24 Z" />
+
+    <!-- Snow cap - clean white -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M54,24 C51,30 49,34 47,40 L61,40 C59,34 57,30 54,24 Z" />
+
+    <!-- Small left peak accent -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M28,84 C32,78 34,66 38,58 C40,54 42,56 44,60 L36,84 Z" />
+
+    <!-- Letter S -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M36,62 L44,62 L44,65 L39,65 L39,67 L44,67 L44,74 L36,74 L36,71 L41,71 L41,69 L36,69 Z" />
+
+    <!-- Letter A -->
+    <path
+        android:fillColor="#1B5E20"
+        android:fillType="evenOdd"
+        android:pathData="M46,74 L52.5,60 L59,74 L55.5,74 L54.5,71 L50.5,71 L49.5,74 Z M51.5,69 L53.5,69 L52.5,65 Z" />
+
+    <!-- Letter M -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M61,74 L61,62 L65,62 L68,67 L71,62 L75,62 L75,74 L72,74 L72,66 L68,71 L64,66 L64,74 Z" />
+
+</vector>

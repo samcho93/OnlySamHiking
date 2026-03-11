@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class com.onlysamhiking.app.data.model.** { *; }
+-keep class com.naver.maps.** { *; }

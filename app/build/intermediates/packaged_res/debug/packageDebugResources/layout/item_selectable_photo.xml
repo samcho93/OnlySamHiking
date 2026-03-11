@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="110dp"
+    android:layout_height="130dp"
+    android:layout_margin="4dp">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cardPhoto"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="1dp"
+        app:strokeWidth="0dp">
+
+        <ImageView
+            android:id="@+id/ivPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
+
+        <!-- 선택 체크마크 -->
+        <ImageView
+            android:id="@+id/ivCheck"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="top|end"
+            android:layout_margin="4dp"
+            android:background="@drawable/bg_control_button"
+            android:src="@android:drawable/checkbox_on_background"
+            android:scaleType="center"
+            android:visibility="gone" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- 시간 정보 -->
+    <TextView
+        android:id="@+id/tvPhotoTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:textSize="10sp"
+        android:textColor="@color/text_secondary"
+        android:maxLines="1"
+        android:ellipsize="end" />
+</FrameLayout>

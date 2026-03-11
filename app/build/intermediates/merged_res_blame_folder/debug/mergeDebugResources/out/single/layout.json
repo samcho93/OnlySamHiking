@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_map.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_mountain_map.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_mountain_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_hiking_detail.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_hiking_detail.xml"
+    },
+    {
+        "merged": "com.onlysamhiking.app-mergeDebugResources-51:/layout/dialog_photo_select.xml",
+        "source": "com.onlysamhiking.app-main-54:/layout/dialog_photo_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\item_selectable_photo.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\item_selectable_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\item_hiking_photo.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\item_hiking_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\item_visited_mountain.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\item_visited_mountain.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_import_gpx.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_import_gpx.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\item_hiking_record.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\item_hiking_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_photo_viewer.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_photo_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-mergeDebugResources-51:\\layout\\activity_fullscreen_map.xml",
+        "source": "C:\\Users\\samdo\\.gradle\\daemon\\8.9\\com.onlysamhiking.app-main-54:\\layout\\activity_fullscreen_map.xml"
+    }
+]
